@@ -14,7 +14,7 @@ For this project I had to use the starter code which was a text editor, but I ha
 * [Information](#Info)
 
 ## Installation
-Clone the repo and run npm i to intall dependences. 
+Clone the repo and run npm i to install dependence. 
 
 ## License 
   This project is licensed under the  License. 
